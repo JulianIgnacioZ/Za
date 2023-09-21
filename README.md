@@ -29,3 +29,5 @@ interior que todos tenemos, y no queremos que se desvanezca con el tiempo.*
 ### [Logotipo](https://turbologo.com/designs/33596008)
 
 
+### [Link Figma](https://www.figma.com/file/oigZUNE104pXBkaj25LVx7/Icaro-Entrega-Figma?type=design&node-id=0-1&mode=design&t=GLK4hYwI1urFXzT3-0)
+
